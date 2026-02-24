@@ -37,7 +37,11 @@ HTML | CSS | JavaScript | Git | GitHub
 🗄 Databases
 MySQL | Oracle  
 
+## 🛠 Languages and Tools
 
+<p>
+  <img src="https://skillicons.dev/icons?i=python,java,c,sql,mysql,git,github,html,css,javascript" />
+</p>
 
 📌 Featured Projects
 🔹 AI-Based Medical Diagnosis System  
