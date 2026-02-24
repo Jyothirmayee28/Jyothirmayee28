@@ -1,6 +1,6 @@
 Hi there 👋, I'm Jyothirmayee
 
-🚀 AI/ML Enthusiast | Python Developer | Problem Solver
+🚀 AI/ML Enthusiast | Python Developer | Java Developer | Problem Solver
 
 🌟 About Me
 Passionate about building intelligent systems that solve real-world problems.  
