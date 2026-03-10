@@ -9,9 +9,9 @@ Interested in Machine Learning, NLP, and AI-driven applications.
 
 
 🚀 Current Focus
-🔹 AI-based Medical Diagnosis System  
-🔹 Machine Learning Model Optimization  
-🔹 Real-time Data Processing & Analytics  
+🔹 Financial fraud detection using value-at-risk with machine learning in skewed Data
+🔹 Smart Parking System 
+🔹 Analyzing Bio-Signals Through Smoking Detection and Assessment of Risk Through Psychological Indicators  
 
 
 
