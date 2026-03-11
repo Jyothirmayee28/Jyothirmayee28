@@ -58,7 +58,7 @@ Machine Learning, AI Projects, Data Science workflows, and Backend Development.
 📫 Contact Me
 📧 Email: gorantlajyothirmayee28@gmail.com  
 🔗 LinkedIn: www.linkedin.com/in/jyothirmayee28   
-🌐 Portfolio: your-portfolio-link  
+🌐 Portfolio: https://jyothirmayee28.github.io/jyothirmayee-portfolio/
 
 ---
 
